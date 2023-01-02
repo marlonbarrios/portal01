@@ -102,7 +102,7 @@ function mbsFramework() {
 function credits() {
   //credits
   createP("Portal 01");
-  createP("Grid of 50000 spining lines coordinated by waves generating a vortex in the center of the canvas. Plays better in desktop computers");
+  createP("Grid of 50000 spinning lines coordinated by waves generating a vortex in the center of the canvas. Plays better in desktop computers.");
   createP("Click on the canvas to only see the lines and press '1' to '5' to change the speed of the lines");
   createP("Press 's' to save a png image");
   var link = createA("https://marlonbarrios.github.io/", "Programmed by Marlon Barrios Solano");
